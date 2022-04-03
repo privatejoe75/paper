@@ -1,2 +1,5 @@
-# paper
-Ghost Theme
+# Paper
+
+## A Ghost Theme
+
+Soon
